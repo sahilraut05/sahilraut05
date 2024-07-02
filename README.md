@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/imSahilRaut05" target="blank"><img src="https://img.shields.io/twitter/follow/imSahilRaut05?logo=twitter&style=for-the-badge" alt="imSahilRaut05" /></a> </p>
 
-- 🔭 I’m currently working on Celebal-Tech-COE(https://github.com/sahilraut05/Celebal-Tech-COE)
+- 🔭 I’m currently working on [Celebal-Tech-COE](https://github.com/sahilraut05/Celebal-Tech-COE)
 
-- 🌱 I’m currently learning **Add your learning**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on
 
-- 💬 Ask me about **Add topics**
+- 👨‍💻 All of my projects are available at [Github][https://github.com/sahilraut05](https://github.com/sahilraut05)
+  
+<!-- - 💬 Ask me about **Add topics** -->
 
 - 📫 How to reach me **raut.sahil003@gmail.com**
 
