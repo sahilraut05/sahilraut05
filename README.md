@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python, C++**
+<!--- 💬 Ask me about **Python, C++**-->
 
 - 📫 How to reach me **raut.sahil003@gmail.com**
 
