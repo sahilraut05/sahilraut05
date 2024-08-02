@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [LeetCode-SQL-50](https://github.com/sahilraut05/LeetCode-SQL-50.git)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Javascript**
 
 <!--- 💬 Ask me about **Python, C++**-->
 
