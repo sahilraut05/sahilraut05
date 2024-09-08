@@ -11,7 +11,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilraut05" alt="sahilraut05" /></a> </p>-->
 
-- 🔭 I’m currently working on [LeetCode-SQL-50](https://github.com/sahilraut05/LeetCode-SQL-50.git)
+- 🔭 I’m currently working on [LeetCode-Top-Interview-150](https://github.com/sahilraut05/LeetCode-Top-Interview-150.git)
 
 - 🌱 I’m currently learning **Java, Javascript**
 
